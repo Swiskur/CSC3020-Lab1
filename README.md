@@ -31,5 +31,5 @@ Why is version control important in modern development?
 
 
 
-Added my details
-Added version control note.
+Added my details,
+ Added version control note.
